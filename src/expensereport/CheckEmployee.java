@@ -235,7 +235,7 @@ public class CheckEmployee {
             //Header for the search results panel 
             QueryHeader = QueryHeader +"\t"+ "QUERY RESULTS: ";
            
-            //header = header + "Employee ID #"+ "\t\t"  + "FIRST NAME" + "\t\t" + "LAST NAME" + "\t\t";  
+            
             textResults.setFont(new Font("Arial", Font.BOLD, 12));
             
              Class.forName("com.mysql.jdbc.Driver");
